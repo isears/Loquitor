@@ -34,3 +34,12 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# Compiled JAVA
+*.class
+
+# Intellij Files
+*.html
+.idea/
+META-INF/
+*.iml

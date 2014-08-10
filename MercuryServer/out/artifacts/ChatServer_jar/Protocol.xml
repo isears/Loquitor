@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protocol>
+    <connectionSuccess>Connection accepted.</connectionSuccess>
+    <duplicateUserName>Error: Duplicate username.</duplicateUserName>
+    <longUserName>Error: Long username.</longUserName>
+    <illegalUserName>Error: Illegal chars in username.</illegalUserName>
+</protocol>
