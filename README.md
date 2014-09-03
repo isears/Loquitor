@@ -1,4 +1,4 @@
-MercuryChat
+Loquitor
 ===========
 
 A simple chat server/client bundle written in Java. The client includes a minimal GUI that connects to the server and allows the user to talk to all other clients connected to the same server. The server is a command line application that manages information flow between two or more clients.
